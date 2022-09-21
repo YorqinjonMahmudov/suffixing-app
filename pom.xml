@@ -17,13 +17,13 @@
 
     <dependencies>
 
-        <dependency>
-            <groupId>suffixing</groupId>
-            <artifactId>suffixing</artifactId>
-            <version>1.0</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/src/main/resources/suffixing.jar</systemPath>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>suffixing</groupId>-->
+<!--            <artifactId>suffixing</artifactId>-->
+<!--            <version>1.0</version>-->
+<!--            <scope>system</scope>-->
+<!--            <systemPath>${project.basedir}/src/main/resources/suffixing.jar</systemPath>-->
+<!--        </dependency>-->
 
 
         <dependency>
